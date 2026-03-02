@@ -35,3 +35,5 @@ downloads/*
 
 # Optional: yt2mp3-main directory (can be removed after integration)
 yt2mp3-main/
+
+CLAUDE.md
